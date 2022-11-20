@@ -1,0 +1,81 @@
+.body {
+    justify-content: center;
+}
+.img {
+    text-decoration: none;
+    border: 0;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header-td {
+    background-color: rgba(216, 217, 217, 1);
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.logo {
+    justify-content: left;
+    padding: 0;
+    margin-left: 25px;
+    margin-right: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ 
+}
+
+.text-header {
+    text-align: center;
+    font-size: 14px;
+    margin-right: 0px;
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.phone {
+    text-align: right;
+    padding: 0;
+    margin-left: 40px;
+    color: rgba(178, 34, 35, 1);
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.phone p {
+    margin: 0;
+    padding: 0;
+}
+
+.section1 {
+    color: #ffff;
+}
+
+.title-sec {
+    color: rgba(102, 102, 102, 1);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-content {
+    color:  rgba(102, 102, 102, 1);
+    margin-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.section2 {
+    color: #ffff;
+}
+
+.href {
+    color:  rgba(178, 34, 35, 1);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
